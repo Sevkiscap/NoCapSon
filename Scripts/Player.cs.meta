@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6ee39bf94f89116409d8bbee51622405
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - laserPrefab: {fileID: 1296202624545413275, guid: b31f98c8e3782954aa32c69c746bde3d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
